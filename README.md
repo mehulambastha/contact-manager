@@ -1,7 +1,7 @@
 # contact-manager
 Exercise project to learn private routing and authentication
 
-## Backend Architecture
+### Backend Architecture
 The division of modules is as demonstrated below-
 ```
 contact-manager
